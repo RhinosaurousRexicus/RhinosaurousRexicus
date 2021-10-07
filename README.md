@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RhinosaurousRexicus
 - 👀 I’m interested in ... Python and AI
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Anything
+- 💞️ I’m looking to collaborate on ... Python projects
 - 📫 How to reach me ... Email me at EliBarnes647@gmail.comm subject Github!
 
 <!---
